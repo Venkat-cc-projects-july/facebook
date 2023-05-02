@@ -1,4 +1,6 @@
-Hare Krishna
+Hare Krishnai
+
+"Testing the GIT stash and modifying the date newly"
 
    "Hello I am in DEV branch"
 
