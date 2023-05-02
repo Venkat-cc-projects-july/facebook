@@ -1,8 +1,10 @@
 Hare Krishna!
 
+
+ Testing the merging in the Github
 "Testing the Git Stash command"
 
-"Hello I am in the master branch"....
+Hello I am in the master branch"....
 "Hello I am in The Development branch"
 i
 "Hello guys Git commands are very important"
